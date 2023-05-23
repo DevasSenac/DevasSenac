@@ -1,6 +1,9 @@
 ## Bem-vindes ao Repositório do Grupo Desenvolvedoras!
 
+## Quem somos?
 Somos um grupo de desenvolvedoras dedicadas ao empoderamento feminino por meio da tecnologia. Aqui, estamos unidas em uma parceria entre o Senac, Porto Digital e Minas em uma jornada de Desenvolvimento Full Stack exclusivo para mulheres em situação de vulnerabilidade.
+:rocket:  Nossa nave é pilotada pela maravilhosa Tereza Oliveira, mulher negra e periférica que nos inspira com sua trajetória de superação e conquistas. Atua como desenvolvedora de software e professora para devs iniciantes no campo do desenvolvimento full-stack e back-end. Com uma formação inicial em administração de empresas, ela também possui experiência como professora e educadora social. Em 2020, Tereza iniciou sua transição de carreira para o campo tecnológico, trazendo consigo sua paixão pelo ensino e seu conhecimento prático. Sua jornada inspiradora é um exemplo para todas nós, mostrando que é possível realizar mudanças significativas e seguir nossos sonhos.
+
 O objetivo do curso é proporcionar oportunidades de crescimento e fortalecimento para todas as participantes, capacitando-as com habilidades técnicas e conhecimentos na área de tecnologia. Acreditamos no poder transformador da inclusão e no valor da diversidade em um setor historicamente desigual.
 Neste repositório, você encontrará recursos, materiais e projetos relacionados ao nosso curso. Estamos comprometidas em criar um ambiente colaborativo e acolhedor, onde cada uma de nós pode se destacar e alcançar seu potencial máximo.
 Agradecemos por fazer parte dessa jornada conosco. Juntas, estamos construindo um futuro mais igualitário e diverso na indústria de tecnologia. Vamos avançar, compartilhar conhecimentos e inspirar outras mulheres a trilharem seus caminhos na área de desenvolvimento.
