@@ -24,4 +24,11 @@ Nossa visão é criar um ambiente colaborativo e acolhedor, onde cada participan
 
 Agradecemos por fazer parte dessa jornada conosco. Juntas, estamos construindo um futuro mais igualitário e diverso na indústria de tecnologia. Vamos avançar, compartilhar conhecimentos e inspirar outras mulheres a trilharem seus caminhos na área de desenvolvimento.
 
+## Agradecimentos
+Ao Senac pela iniciativa de oferecer formação tecnológica para mulheres<br>
+Porto Digital<br>
+Minas<br>
+À nossa dedicada professora Tereza Oliveira por liderar e compartilhar seu conhecimento conosco.
+
+
 Equipe Desenvolvedoras
